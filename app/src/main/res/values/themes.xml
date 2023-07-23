@@ -1,10 +1,10 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources  xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
 
     <style name="ClearW" >
         <item name="color">#FFFFFF</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textSize">25dp</item>
+        <item name="android:textSize">25sp</item>
     </style>
 
     <style name="Theme.WeatherApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
